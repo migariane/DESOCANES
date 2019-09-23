@@ -98,7 +98,7 @@ Miguel Servet I (CP17/00206-EU/FEDER) at Instituto de Investigación Biosanitari
 <img src="images/email.png" alt="email" style="width: 20px;"/>  miguel.luque.easp at juntadeandalucia.es
 
 ### CO-IP: **María José Sánchez Pérez, MD, PhD**
-Directora del Registro de Cáncer de Granada. Profesora de la Escuela Andaluza de Salud Pública. Licenciada en Medicina, Especialista en Microbiología y Parasitología Clínica y Experta en Epidemiología e Investigación Clínica por la Universidad de Granada.
+Directora del Registro de Cáncer de Granada. Profesora de la Escuela Andaluza de Salud Pública. Licenciada en Medicina y Cirugía, Especialista en Microbiología y Parasitología Clínica y Experta en Epidemiología e Investigación Clínica por la Universidad de Granada.
 
 ### Personal investigador contratado: 
 
