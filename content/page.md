@@ -65,7 +65,7 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 ### III Curso introductorio de análisis de supervivencia  
 
 **5. [Acceso a el material docente](https://github.com/migariane/SVA-ULB)**  
-**6. [Tutorial online: Net Survival Cohort approach](http://migariane.github.io/Tutorial-SVA-ULB.html)**  
+**6. [Tutorial online con ejercicios](http://migariane.github.io/Tutorial-SVA-ULB.html)**  
 
 ### IV Distribuciones paramétricas de supervivencia  
 **7. [Acceso a la aplicación interactiva](https://watzilei.com/shiny/Pardist/)**  
