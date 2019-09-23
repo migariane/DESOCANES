@@ -2,7 +2,11 @@
 
 ## Proyecto DESOCANES (FIS PI18/01593)
 
+[DESOCANES website](https://desocanes.netlify.com/)
+
 # Abstract
 The incidence of cancer is increasing worldwide due mainly to the ageing of the population. Population-based cancer registries are an essential public health resource for epidemiological cancer surveillance and control. Incidence and mortality provide information on the burden of cancer morbidity and the potential years of life lost due to cancer, while survival is a general indicator of the effectiveness of the health system. In northern European countries there is a long tradition using ecological indices of deprivation to characterize socioeconomic inequalities at a geographical level. For instance, in the United Kingdom cancer patients living in wealthier areas have a higher cancer survival than those living in more deprived areas. However, in Spain there is no supporting evidence showing socioeconomic inequalities in cancer outcomes. It is for this reason that the first Spanish Deprivation Index (IP2011) and the European Deprivation Index have recently been developed as a standardized measure to measure socio-economic deprivation in southern Europe at the census level. The main objective of **DESOCANES** is to characterize socioeconomic inequalities in incidence, excess mortality, premature mortality and net survival for three of the most incidental cancers (lung, colon-rectum and breast) in Spain using a specific deprivation index for three of the most incident cancer sites (breast, lung and colorectal). We will develop a national population-based study to assess the impact of socioeconomic inequalities on cancer, using state-of-the-art epidemiological methods that include spatial analysis, multilevel modeling, net survival, and an economic impact assessment. The identification and characterization of cancer socioeconomic inequalities and the associated determinants could have important implications for the organization and the provision of services in cancer medical care, minimizing the impact of the cancer "epidemic" in Spain.
 
+###### Figur3 1. DESOCANES objectives
 ![Figure Link](https://github.com/migariane/DESOCANES/blob/master/objectives.png)    
+###### Figure Copyright: Miguel Angel Luque-Fernandez 
