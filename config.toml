@@ -1,0 +1,24 @@
+baseurl         = "/"
+theme           = "sp-minimal"
+languageCode    = "en-us"
+title           = "Desigualdades Socioeconómicas y Cáncer en España"
+disqusShortname = ""
+paginate        = 5
+ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  title       = "Desigualdades Socioeconómicas y Cáncer en España"
+  subtitle    = "Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas en la Distribución Geográfica de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España"
+  copyright   = "Released under the MIT license."
+  authorImage = "logo.png"
+
+  #"single" or "multi"
+  renderType = "single"
+  #"simple" or "original"
+  themeStyle = "simple"
+
+  googleAnalytics = "UA-122924444-1"
+
+  name = ""
+  description = "IP: Miguel Ángel Luque-Fernández <br> Co-IP: María José Sánchez Pérez"
+  pageNotFoundTitle = "404 - Page not found"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desigualdades Socioeconómicas y Cáncer en España</title>
+    <link>/</link>
+    <description>Recent content on Desigualdades Socioeconómicas y Cáncer en España</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/</guid>
+      <description>Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas en la Distribución Geográfica de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España. Proyecto FIS PI18/01593 Resumen La incidencia de cáncer está aumentando a nivel mundial debido fundamentalmente al envejecimiento de la población. Los registros del cáncer de base poblacional son un recurso de salud pública esencial para la vigilancia epidemiológica y el control del cáncer. La incidencia y la mortalidad brindan información sobre la carga de la morbilidad del cáncer y los años potenciales de vida perdidos debidos al cáncer, mientras que la supervivencia es un indicador general de la efectividad del sistema sanitario.</description>
+    </item>
+    
+  </channel>
+</rss>
