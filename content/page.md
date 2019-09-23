@@ -2,17 +2,17 @@
 type: "onepage"
 ---
 
-# Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas en la Distribución Geográfica de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España. 
+# Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas en la Distribución Geográfica de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España  
 
-## Proyecto FIS PI18/01593 
+## Proyecto DESOCANES (FIS PI18/01593)
 
 # Resumen 
-La incidencia de cáncer está aumentando a nivel mundial debido fundamentalmente al envejecimiento de la población. Los registros del cáncer de base poblacional son un recurso de salud pública esencial para la vigilancia epidemiológica y el control del cáncer. La incidencia y la mortalidad brindan información sobre la carga de la morbilidad del cáncer y los años potenciales de vida perdidos debidos al cáncer, mientras que la supervivencia es un indicador general de la efectividad del sistema sanitario. En los países del norte de Europa existe una larga tradición de caracterización de las desigualdades socioeconómicas a nivel geográfico, usando índices de privación. En el Reino Unido los pacientes de cáncer que viven en áreas más ricas presentan una mayor supervivencia del cáncer que los que viven en zonas más desfavorecidas. Sin embargo, en España no es habitual documentar geográficamente las desigualdades socioeconómicas en salud. Es por esta razón, que recientemente se ha desarrollado el Índice Europeo de Privación (EDI) como una medida estandarizada para medir la privación socioeconómica en el sur de Europa a nivel censal. Además, cabe la posibilidad de combinar la información del EDI con variables ecológicas a nivel poblacional y los datos de los Estudios Europeos de Alta Resolución en Cáncer. El principal objetivo de este proyecto es caracterizar las desigualdades socioeconómicas en la incidencia, el exceso de mortalidad, la mortalidad prematura y la supervivencia neta para tres de los cánceres más incidentes (pulmón, colon-recto y mama) en España usando el EDI. Este estudio nacional de base poblacional evaluará el impacto de las desigualdades socioeconómicas, utilizando métodos epidemiológicos de vanguardia que incluyen el análisis espacial, la modelización multinivel, la supervivencia neta y la evaluación del impacto económico. La identificación y caracterización de estas desigualdades socioeconomicas en España puede tener importantes implicaciones en la organización, la provisión de servicios y en la atención médica del cáncer minimizando el impacto de la “epidemia” del cáncer en España. 
+La incidencia de cáncer está aumentando a nivel mundial debido fundamentalmente al envejecimiento de la población. Los registros del cáncer de base poblacional son un recurso de salud pública esencial para la vigilancia epidemiológica y el control del cáncer. La incidencia y la mortalidad brindan información sobre la carga de la morbilidad del cáncer y los años potenciales de vida perdidos debidos al cáncer, mientras que la supervivencia es un indicador general de la efectividad del sistema sanitario. En los países del norte de Europa existe una larga tradición de caracterización de las desigualdades socioeconómicas a nivel geográfico, usando índices de privación. En el Reino Unido los pacientes de cáncer que viven en áreas más ricas presentan una mayor supervivencia del cáncer que los que viven en zonas más desfavorecidas. Sin embargo, en España no es habitual documentar geográficamente las desigualdades socioeconómicas en salud. Es por esta razón, que recientemente se ha desarrollado el Índice Europeo de Privación (EDI) como una medida estandarizada para medir la privación socioeconómica en el sur de Europa a nivel censal. Además, cabe la posibilidad de combinar la información del EDI con variables ecológicas a nivel poblacional y los datos de los Estudios Europeos de Alta Resolución en Cáncer. El principal objetivo de este proyecto es caracterizar las desigualdades socioeconómicas en la incidencia, el exceso de mortalidad, la mortalidad prematura y la supervivencia neta para tres de los cánceres más incidentes (pulmón, colon-recto y mama) en España usando el EDI. Este estudio nacional de base poblacional evaluará el impacto de las desigualdades socioeconómicas, utilizando métodos epidemiológicos de vanguardia que incluyen el análisis espacial, la modelización multinivel, la supervivencia neta y la evaluación del impacto económico. La identificación y caracterización de estas desigualdades socioecónomicas en España puede tener importantes implicaciones en la organización, la provisión de servicios y en la atención médica del cáncer minimizando el impacto de la “epidemia” del cáncer en España. 
 
 # Abstract
 The incidence of cancer is increasing worldwide due mainly to the ageing of the population. Population-based cancer registries are an essential public health resource for epidemiological surveillance and cancer control. Incidence and mortality provide information on the burden of cancer morbidity and the potential years of life lost due to cancer, while survival is a general indicator of the effectiveness of the health system. In northern European countries there is a long tradition of using indices of deprivation to characterize socioeconomic inequalities at a geographical level. In the United Kingdom cancer patients living in wealthier areas have a higher cancer survival than those living in more disadvantaged areas. However, in Spain there is not supporting evidence showing socioeconomic inequalities in cancer outcomes. It is for this reason that the European Index of Deprivation (EDI) has recently been developed as a standardized measure to measure socio-economic deprivation in southern Europe at the census level. In addition, it is possible to combine EDI information with ecological variables at the population level and data from the European Studies of High Resolution in Cancer. The main objective of this project is to characterize socioeconomic inequalities in incidence, excess mortality, premature mortality and net survival for three of the most incidental cancers (lung, colon-rectum and breast) using a specific deprivation index for Spain and for three of the most incident cancer sites (breast, lung and colorectal). We will develop a national population-based study to assess the impact of socioeconomic inequalities on cancer, using state-of-the-art epidemiological methods that include spatial analysis, multilevel modeling, net survival, and an economic impact assessment. The identification and characterization of cancer socioeconomic inequalities and the associated determinants in Spain could have important implications for the organization and the provision of services in cancer medical care, minimizing the impact of the cancer "epidemic" in Spain.
 
-![Objectivos del proyecto](images/Figura1.png)
+![Objetivos del proyecto](images/Figura1.png)
 
 ### Objetivo principal
 
@@ -40,7 +40,7 @@ para los cánceres de **colon-recto**, **pulmón** y **mama** en España.
 
 ## Material docente y tutoriales 
 
-### Datos espaciales en salud (28-30 de Noviembre, 2018)
+### I Datos espaciales en salud (28-30 de Noviembre, 2018)
 
 Curso presencial organizado por el Centro Nacional de Epidemiología, la Escuela Andaluza de Salud Pública y CIBERESP. 
 
@@ -48,19 +48,33 @@ Curso presencial organizado por el Centro Nacional de Epidemiología, la Escuela
 
 #### Recursos:  
 
-#### 1 Introducción a los Sistemas de Información Geográfica (Daniel Redondo Sánchez):  
-[Presentación](/material_docente/presentacion_DRS_cne.pdf)  
+**1. Introducción a los Sistemas de Información Geográfica**    
+[Presentación](/material_docente/presentacion_DRS_cne.pdf)   
 
-#### 2 Introduction to Spatial Epidemiology Analyses and Methods (Miguel Ángel Luque-Fernández):
-[Presentación](/material_docente/presentacion_MALF_cne.pdf)  
+**2. Introduction to Spatial Epidemiology Analyses and Methods**   
+[Presentación](/material_docente/presentacion_MALF_cne.pdf)      
+
+### II Net Survival Estimation (27-28 de Marzo, 2017)    
+Curso presencial organizado por la Escuela Andaluza de Salud Pública en colaboración con la London School of Hygiene and Tropical Medicine.  
+
+**3. [Acceso a el material docente](https://github.com/migariane/EASP_NET_SURV/tree/v.1)**  
+**4. [Tutorial online: Net Survival Cohort approach](http://migariane.github.io/Cohort.html)**  
+
+### III Curso introductorio de análisis de supervivencia  
+
+**5. [Acceso a el material docente](https://github.com/migariane/SVA-ULB)**  
+**6. [Tutorial online: Net Survival Cohort approach](http://migariane.github.io/Tutorial-SVA-ULB.html)**  
+
+### IV Distribuciones paramétricas de supervivencia  
+**7. [Acceso a la aplicación interactiva](https://watzilei.com/shiny/Pardist/)**  
 
 ---------------------
 
 ## Artículos y trabajo en curso
 
-- En colaboración con el Centro Nacional de Epidemiología del Instituto de Salud Carlos III se está desarrollando una aplicación informática para la georeferenciación de los casos incidentes de cáncer en España.
+- En colaboración con el **Centro Nacional de Epidemiología** del Instituto de Salud Carlos III se está desarrollando una aplicación informática para la georreferenciación de los casos incidentes de cáncer en España en el marco del Subprograma de Vigilancia del Cáncer del CIBERESP.
 
-- Recientemente hemos georeferenciado todos los casos incidentes de cáncer colorectal de la provincia de Granada durante el período 2011-2013 y estamos estudiando la asociación entre los quintiles del IP2011 y la supervivencia a 10 años del cáncer colorectal. 
+- Recientemente hemos georreferenciado todos los casos incidentes de cáncer colorrectal de la provincia de Granada durante el período 2011-2013 y estamos estudiando la asociación entre los quintiles del IP2011 y la supervivencia a 10 años del cáncer colorrectal. 
 
 - En este enlace se irán actualizando los artículos y actividades derivadas del proyecto FIS PI18/01593
 
@@ -68,7 +82,7 @@ Curso presencial organizado por el Centro Nacional de Epidemiología, la Escuela
 
 ## Ciencia reproducible (repositorio GitHub)
 
-Recientemente un [grupo de trabajo sobre los determinantes sociales de la salud](https://www.seepidemiologia.es/gruposdetrabajo.php?contenido=gruposdetrabajosub6) de la sociedad española de epidemiología ha desarrollado un índice de Privación (IP2011). El IP2011 es una medida del grado de privación socioeconómica de las secciones censales del Estado Español en 2011. El IP2011 combina información de seis indicadores socioeconómicos (basicamente empleo y educación), calculados para cada sección censal a partir de los datos recogidos en el Censo de Población y Viviendas de España de 2011 (Cita -provisional-: Duque I, Domínguez‐Berjón MF, Cebrecos A, Prieto‐Salceda MD, Esnaola S, Calvo Sánchez M, Marí‐Dell’Olmo M. Índice de privación en España por sección censal en 2011: hacia un seguimiento de la desigualdad en áreas pequeñas durante la crisis económica.)
+Recientemente un [grupo de trabajo sobre los determinantes sociales de la salud](https://www.seepidemiologia.es/gruposdetrabajo.php?contenido=gruposdetrabajosub6) de la sociedad española de epidemiología ha desarrollado un índice de Privación (IP2011). El IP2011 es una medida del grado de privación socioeconómica de las secciones censales del Estado Español en 2011. El IP2011 combina información de seis indicadores socioeconómicos (básicamente empleo y educación), calculados para cada sección censal a partir de los datos recogidos en el Censo de Población y Viviendas de España de 2011 (**Cita -provisional-**: Duque I, Domínguez‐Berjón MF, Cebrecos A, Prieto‐Salceda MD, Esnaola S, Calvo Sánchez M, Marí‐Dell’Olmo M. Índice de privación en España por sección censal en 2011: hacia un seguimiento de la desigualdad en áreas pequeñas durante la crisis económica.)
 
 Basado en el IP2011, hemos realizado un [mapa interactivo](https://github.com/danielredondo/Deprivation-maps-in-Spain) de los quintiles de privación en España a nivel censal basado en código abierto y reproducible en R donde se puede apreciar un particular patrón en la distribución de la privación a nivel de las secciones censales en España 2011.
 
@@ -84,7 +98,7 @@ Miguel Servet I (CP17/00206-EU/FEDER) at Instituto de Investigación Biosanitari
 <img src="images/email.png" alt="email" style="width: 20px;"/>  miguel.luque.easp at juntadeandalucia.es
 
 ### CO-IP: **María José Sánchez Pérez, MD, PhD**
-Directora del Registro de Cáncer de Granada. Profesora de la Escuala Andaluza de Salud Pública. Licenciada en Medicia, Especialista en Microbiología y Parasitología Clínica y Experta en Epidemiología e Investigación Clínica por la Universidad de Granada.
+Directora del Registro de Cáncer de Granada. Profesora de la Escuela Andaluza de Salud Pública. Licenciada en Medicina, Especialista en Microbiología y Parasitología Clínica y Experta en Epidemiología e Investigación Clínica por la Universidad de Granada.
 
 ### Personal investigador contratado: 
 
@@ -128,7 +142,7 @@ Carlos III Institute of Health, Grants/Award Numbers: PI18/01593 & CP17/00206-EU
 
 ---------------------
 
-[<img src="/img/twitter_share.png"  style = "width:200px;">](https://twitter.com/intent/tweet?url=http://comcor.netlify.com/&via=WATZILEI)
+[<img src="/img/twitter_share.png"  style = "width:200px;">](https://twitter.com/intent/tweet?url=http://desocanes.netlify.com/&via=WATZILEI)
 
 ---------------------
 
