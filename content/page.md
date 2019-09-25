@@ -97,18 +97,18 @@ Senior Scientific Researcher of Epidemiology and Biostatistics
 Miguel Servet I (CP17/00206-EU/FEDER) at Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA, University of Granada, Granada, Spain) and Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCIII, Madrid, Spain. 
 [Academic Webpage](https://maluque.netlify.com/)  
 
-Assistant Professor of Epidemiology and Biostatistics (Honorary)
-Department of Non-Communicable Disease Epidemiology
-London School of Hygiene and Tropical Medicine, London, U.K.
-[LSHTM academic website](http://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel)
+Assistant Professor of Epidemiology and Biostatistics (Honorary)  
+Department of Non-Communicable Disease Epidemiology  
+London School of Hygiene and Tropical Medicine, London, U.K.  
+[LSHTM academic website](http://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel)  
 
-Scientist collaborator, Department of Epidemiology
-Harvard TH Chan School of Public Health
-[Harvard academic website](https://scholar.harvard.edu/malf)
+Scientist collaborator, Department of Epidemiology  
+Harvard TH Chan School of Public Health  
+[Harvard academic website](https://scholar.harvard.edu/malf)  
 
-CoMcOR study and tutorials:
-[CoMcOR study](https://comcor.netlify.com/)
-[Tutorials](http://migariane.github.io/)
+CoMcOR study and tutorials  
+[CoMcOR study](https://comcor.netlify.com/)  
+[Tutorials](http://migariane.github.io/)  
 
 <img src="images/email.png" alt="email" style="width: 20px;"/>  miguel.luque.easp at juntadeandalucia.es
 
