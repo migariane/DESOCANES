@@ -99,11 +99,11 @@ Miguel Servet I (CP17/00206-EU/FEDER) at Instituto de Investigación Biosanitari
 
 Assistant Professor of Epidemiology and Biostatistics (Honorary)  
 Department of Non-Communicable Disease Epidemiology  
-London School of Hygiene and Tropical Medicine, London, U.K.  
+London School of Hygiene and Tropical Medicine, London, UK   
 [LSHTM academic website](http://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel)  
 
 Scientist collaborator, Department of Epidemiology  
-Harvard TH Chan School of Public Health  
+Harvard TH Chan School of Public Health, Boston, USA  
 [Harvard academic website](https://scholar.harvard.edu/malf)  
 
 CoMcOR study and tutorials  
