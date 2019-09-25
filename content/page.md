@@ -94,19 +94,34 @@ Basado en el IP2011, hemos realizado un [mapa interactivo](https://github.com/da
 
 ### IP: **Miguel Ángel Luque Fernández, MA, MPH, MSc, PhD**
 Senior Scientific Researcher of Epidemiology and Biostatistics  
-Miguel Servet I (CP17/00206-EU/FEDER) at Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA), Andalusian School of Public Health and Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCIII, Madrid, Spain.    
-[Hugo Academic Webpage](http://watzilei.com/maluque.html)  
+Miguel Servet I (CP17/00206-EU/FEDER) at Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA, University of Granada, Granada, Spain) and Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCIII, Madrid, Spain. 
+[Academic Webpage](https://maluque.netlify.com/)  
+
+Assistant Professor of Epidemiology and Biostatistics (Honorary)
+Department of Non-Communicable Disease Epidemiology
+London School of Hygiene and Tropical Medicine, London, U.K.
+[LSHTM academic website](http://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel)
+
+Scientist collaborator, Department of Epidemiology
+Harvard TH Chan School of Public Health
+[Harvard academic website](https://scholar.harvard.edu/malf)
+
+CoMcOR study and tutorials:
+[CoMcOR study](https://comcor.netlify.com/)
+[Tutorials](http://migariane.github.io/)
 
 <img src="images/email.png" alt="email" style="width: 20px;"/>  miguel.luque.easp at juntadeandalucia.es
 
 ### CO-IP: **María José Sánchez Pérez, MD, PhD**
 Directora del Registro de Cáncer de Granada. Profesora de la Escuela Andaluza de Salud Pública. Licenciada en Medicina y Cirugía, Especialista en Microbiología y Parasitología Clínica y Experta en Epidemiología e Investigación Clínica por la Universidad de Granada.
 
+[Registro de Cancer de Granada](http://cancergranada.org/es/index.cfm)
+
 ### Personal investigador contratado: 
 
 - **Daniel Redondo Sánchez, MSc**  
 Daniel es matemático y experto en Epidemiología e Investigación Clínica por la Universidad de Granada.
-Trabaja en el Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA), la Escuela Andaluza de Salud Pública y CIBERSP.  
+Trabaja en el Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA), la Escuela Andaluza de Salud Pública y CIBERESP.  
 
 ### Investigadores colaboradores:
 
