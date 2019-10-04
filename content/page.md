@@ -82,6 +82,14 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 
 ---------------------
 
+## Congresos y Jornadas
+
+- "Descarga de datos del Instituto Nacional de Estadística con R usando el servicio API JSON",
+Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. **XI Jornadas de Usuarios de R** http://r-es.org/XIjuR/. [Abstract](/INE_R_Abstract.pdf).
+
+
+---------------------
+
 ## Ciencia reproducible (repositorio GitHub)
 
 Recientemente un [grupo de trabajo sobre los determinantes sociales de la salud](https://www.seepidemiologia.es/gruposdetrabajo.php?contenido=gruposdetrabajosub6) de la sociedad española de epidemiología ha desarrollado un índice de Privación (IP2011). El IP2011 es una medida del grado de privación socioeconómica de las secciones censales del Estado Español en 2011. El IP2011 combina información de seis indicadores socioeconómicos (básicamente empleo y educación), calculados para cada sección censal a partir de los datos recogidos en el Censo de Población y Viviendas de España de 2011 (**Cita -provisional-**: Duque I, Domínguez‐Berjón MF, Cebrecos A, Prieto‐Salceda MD, Esnaola S, Calvo Sánchez M, Marí‐Dell’Olmo M. Índice de privación en España por sección censal en 2011: hacia un seguimiento de la desigualdad en áreas pequeñas durante la crisis económica.)
