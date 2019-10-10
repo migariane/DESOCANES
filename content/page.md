@@ -85,8 +85,8 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 ## Congresos y Jornadas
 
 - "Descarga de datos del Instituto Nacional de Estadística con R usando el servicio API JSON",
-Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. **XI Jornadas de Usuarios de R** http://r-es.org/XIjuR/  
-  [Abstract](/INE_R_Abstract.pdf)  
+Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. [**XI Jornadas de Usuarios de R**](http://r-es.org/XIjuR/)
+[Abstract](/INE_R_Abstract.pdf)  
 
 
 ---------------------
@@ -115,8 +115,8 @@ Scientist collaborator, Department of Epidemiology
 Harvard TH Chan School of Public Health, Boston, USA.  
 [Harvard academic website](https://scholar.harvard.edu/malf)  
 
-CoMcOR study and tutorials  
-[CoMcOR study](https://comcor.netlify.com/)  
+CoMCoR study and tutorials  
+[CoMCoR study](https://comcor.netlify.com/)  
 [Tutorials](http://migariane.github.io/)  
 
 <img src="images/email.png" alt="email" style="width: 20px;"/>  miguel.luque.easp at juntadeandalucia.es
