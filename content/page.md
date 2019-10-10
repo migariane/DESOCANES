@@ -85,7 +85,8 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 ## Congresos y Jornadas
 
 - "Descarga de datos del Instituto Nacional de Estadística con R usando el servicio API JSON",
-Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. **XI Jornadas de Usuarios de R** http://r-es.org/XIjuR/. [Abstract](/INE_R_Abstract.pdf).
+Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. **XI Jornadas de Usuarios de R** http://r-es.org/XIjuR/  
+- [Abstract](/INE_R_Abstract.pdf)  
 
 
 ---------------------
