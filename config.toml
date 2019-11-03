@@ -1,14 +1,14 @@
 baseurl         = "/"
 theme           = "sp-minimal"
 languageCode    = "en-us"
-title           = "Desigualdades Socioeconómicas y Cáncer en España"
+title           = "Desigualdades Socioeconómicas y Cáncer"
 disqusShortname = ""
 paginate        = 5
 ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  title       = "Desigualdades Socioeconómicas y Cáncer en España"
-  subtitle    = "Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas en la Distribución Geográfica de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España"
+  title       = "Desigualdades Socioeconómicas y Cáncer"
+  subtitle    = "Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España"
   copyright   = "Released under the MIT license."
   authorImage = "logo.png"
 
