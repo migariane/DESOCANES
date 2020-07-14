@@ -76,6 +76,17 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 
 - **Protocolo del Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas en la Distribución Geográfica de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España: Estudio DESOCANES**. Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Pablo Fernández, Elena Salamanca-Fernández, Rafael Marcos-Gragera, Marcela Guevara, Marià Carulla Aresté, Rosario Jiménez, Olivier Núñez, Consol Sabater, Arantxa López de Munain Marqués, María Dolores Chirlaque, Antonio Mateos, Miguel Rodríguez-Barranco, Jaime Espín Balbino, Marina Pollán, María-José Sánchez. **Publicado en [Gaceta Sanitaria](https://www.gacetasanitaria.org/es-protocolo-del-estudio-poblacional-multinivel-avance-S021391112030128X).** DOI: 10.1016/j.gaceta.2020.02.015
 
+- **Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A Multilevel Population-Based Cohort Study**. Miguel Angel Luque-Fernandez, Daniel Redondo-Sánchez, Miguel Rodríguez-Barranco, Chang-Chan Yoe-Ling, Elena Salamanca-Fernández, Olivier Núñez, Pablo Fernandez-Navarro, Marina Pollán and María-José Sánchez. Aceptado en Clinical Epidemiology.
+
+Background: Colorectal cancer (CRC) is the most frequently diagnosed cancer in Spain. Socioeconomic inequalities in cancer survival are not documented in Spain. We aim to study the association of socioeconomic inequalities with overall mortality and survival among CRC patients in southern Spain.
+Methods: We conducted a multilevel population-based cohort study, including CRC cases 10 for the period 2011–2013. The study time-to-event outcome was death, and the primary exposure was CRC patients’ socioeconomic status assessed by the Spanish deprivation index at the census tract level. We used a mixed-effects flexible hazard model, including census tract as a random intercept, to derive overall survival estimates by deprivation.
+
+Results: Among 3589 CRC patients and 12,148 person-years at risk (pyr), 964 patients died 15 before the end of the follow-up. Mortality by deprivation showed the highest mortality rate for the most deprived group (96.2 per 1000 pyr, 95% CI: 84.0–110.2). After adjusting for sex, age, cancer stage, and the area of residence, the most deprived had a 60% higher excess mortality risk than the less deprived group (excess mortality: 1.6, 95% CI: 1.1–2.3).
+
+Conclusions: We found a consistent association between deprivation and CRC excess 20 mortality and survival. The reasons behind these inequalities need further investigation in order to improve equality cancer outcomes in all social groups.
+
+Keywords: socioeconomic inequalities, colorectal cancer, survival, population-based epidemiology, epidemiological methods, multilevel
+
 - En colaboración con el **Centro Nacional de Epidemiología** del Instituto de Salud Carlos III se está desarrollando una aplicación informática para la georreferenciación de los casos incidentes de cáncer en España en el marco del Subprograma de Vigilancia del Cáncer del CIBERESP.
 
 - Recientemente hemos georreferenciado todos los casos incidentes de cáncer colorrectal de la provincia de Granada durante el período 2011-2013 y estamos estudiando la asociación entre los quintiles del IP2011 y la supervivencia a 10 años del cáncer colorrectal. 
@@ -136,8 +147,7 @@ Trabaja en el Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA),
 
 ### Investigadores colaboradores:
 
-- **Loreto Vilardell**    
-Loreto es licenciada en medicina por la Universidad de Navarra y especialista en Medicina Preventiva y Salud Pública, con amplia experiencia en epidemiología del cáncer de base poblacional. Trabaja como adjunto especialista en la “Unitat d’Epidemiologia i Registre de Càncer de Girona”.    
+- **Montse Puigdemont**    
 
 - **Marcela Guevara Eslava**  
 Marcela es doctora en medicina por la Universidad de Navarra y Máster en Salud Pública por la Escuela Nacional de Sanidad. Es Facultativo Especialista de Área de Medicina Preventiva y Salud Pública en el Instituto de Salud Pública de Navarra, con gran experiencia investigadora en el área de epidemiología del cáncer y en los estudios de alta resolución. Es investigadora del CIBERESP.    
