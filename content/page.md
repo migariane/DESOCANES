@@ -74,6 +74,8 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 
 ## Artículos y trabajo en curso
 
+- **Protocolo del Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas en la Distribución Geográfica de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España: Estudio DESOCANES**. Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Pablo Fernández, Elena Salamanca-Fernández, Rafael Marcos-Gragera, Marcela Guevara, Marià Carulla Aresté, Rosario Jiménez, Olivier Núñez, Consol Sabater, Arantxa López de Munain Marqués, María Dolores Chirlaque, Antonio Mateos, Miguel Rodríguez-Barranco, Jaime Espín Balbino, Marina Pollán, María-José Sánchez. **Publicado en [Gaceta Sanitaria](https://www.gacetasanitaria.org/es-protocolo-del-estudio-poblacional-multinivel-avance-S021391112030128X).** DOI: 10.1016/j.gaceta.2020.02.015
+
 - En colaboración con el **Centro Nacional de Epidemiología** del Instituto de Salud Carlos III se está desarrollando una aplicación informática para la georreferenciación de los casos incidentes de cáncer en España en el marco del Subprograma de Vigilancia del Cáncer del CIBERESP.
 
 - Recientemente hemos georreferenciado todos los casos incidentes de cáncer colorrectal de la provincia de Granada durante el período 2011-2013 y estamos estudiando la asociación entre los quintiles del IP2011 y la supervivencia a 10 años del cáncer colorrectal. 
