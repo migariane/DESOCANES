@@ -101,6 +101,8 @@ Keywords: socioeconomic inequalities, colorectal cancer, survival, population-ba
 Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. [XI Jornadas de Usuarios de R](http://r-es.org/XIjuR/)  
 [Abstract](/INE_R_Abstract.pdf). [Presentación](/presentacion_api_ine.pdf).
 
+- "Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A multilevel Population-based Study",
+Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Miguel Rodriguez-Barranco, Yoe Ling Chang-Chan, Elena Salamanca-Fernández, Olivier Nuñez, Pablo Fernández-Navarro, Marina Pollán, María José Sánchez. Comunicación oral aceptada en el I Congreso Virtual de la Sociedad Española de Epidemiología (SEE) y da Associação Portuguesa de Epidemiologia (APE).
 
 ---------------------
 
