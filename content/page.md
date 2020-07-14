@@ -85,8 +85,6 @@ Results: Among 3589 CRC patients and 12,148 person-years at risk (pyr), 964 pati
 
 Conclusions: We found a consistent association between deprivation and CRC excess 20 mortality and survival. The reasons behind these inequalities need further investigation in order to improve equality cancer outcomes in all social groups.
 
-Keywords: socioeconomic inequalities, colorectal cancer, survival, population-based epidemiology, epidemiological methods, multilevel
-
 - En colaboración con el **Centro Nacional de Epidemiología** del Instituto de Salud Carlos III se está desarrollando una aplicación informática para la georreferenciación de los casos incidentes de cáncer en España en el marco del Subprograma de Vigilancia del Cáncer del CIBERESP.
 
 - Recientemente hemos georreferenciado todos los casos incidentes de cáncer colorrectal de la provincia de Granada durante el período 2011-2013 y estamos estudiando la asociación entre los quintiles del IP2011 y la supervivencia a 10 años del cáncer colorrectal. 
@@ -97,11 +95,11 @@ Keywords: socioeconomic inequalities, colorectal cancer, survival, population-ba
 
 ## Congresos y Jornadas
 
-- "Descarga de datos del Instituto Nacional de Estadística con R usando el servicio API JSON",
+- **Descarga de datos del Instituto Nacional de Estadística con R usando el servicio API JSON**,
 Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. [XI Jornadas de Usuarios de R](http://r-es.org/XIjuR/)  
 [Abstract](/INE_R_Abstract.pdf). [Presentación](/presentacion_api_ine.pdf).
 
-- "Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A multilevel Population-based Study",
+- **Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A multilevel Population-based Study**,
 Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Miguel Rodriguez-Barranco, Yoe Ling Chang-Chan, Elena Salamanca-Fernández, Olivier Nuñez, Pablo Fernández-Navarro, Marina Pollán, María José Sánchez. Comunicación oral aceptada en el I Congreso Virtual de la Sociedad Española de Epidemiología (SEE) y da Associação Portuguesa de Epidemiologia (APE).
 
 ---------------------
