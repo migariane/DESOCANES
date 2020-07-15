@@ -150,7 +150,7 @@ Trabaja en el Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA),
 - **Montse Puigdemont**. Montse es diplomada en enfermería y profesora asociada en la Facultad de Enfermería de la Universidad de Girona. Desde 2018 trabaja en el Registro de Cáncer de Girona, aunque su trayectoria ha estado vinculada en estudios clínicos y epidemiológicos sobre cáncer desde 2005.
 
 - **Marcela Guevara Eslava**  
-Marcela es doctora en medicina por la Universidad de Navarra y Máster en Salud Pública por la Escuela Nacional de Sanidad. Es Facultativo Especialista de Área de Medicina Preventiva y Salud Pública en el Instituto de Salud Pública de Navarra, con gran experiencia investigadora en el área de epidemiología del cáncer y en los estudios de alta resolución. Es investigadora del CIBERESP.    
+Marcela es Licenciada en Medicina y Cirugía, Especialista en Medicina Preventiva y Salud Pública. Doctora por la Universidad Pública de Navarra. Trabaja como Facultativo Especialista de Área en el Instituto de Salud Pública de Navarra, y cuenta con experiencia investigadora en el área de epidemiología del cáncer y en los estudios de alta resolución. Es investigadora del CIBERESP.
 
 - **Marià Carulla Aresté**  
 Marià es licenciado en Medicina por la Universidad de Barcelona. Desde 2010 trabaja en el Registro de Cáncer de Tarragona, con experiencia acreditada en estudios epidemiológicos y publicaciones científicas sobre cáncer (incidencia, mortalidad y supervivencia de base poblacional).  
