@@ -79,11 +79,11 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 - **Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A Multilevel Population-Based Cohort Study**. Miguel Angel Luque-Fernandez, Daniel Redondo-Sánchez, Miguel Rodríguez-Barranco, Chang-Chan Yoe-Ling, Elena Salamanca-Fernández, Olivier Núñez, Pablo Fernandez-Navarro, Marina Pollán and María-José Sánchez. Aceptado en Clinical Epidemiology.
 
 Background: Colorectal cancer (CRC) is the most frequently diagnosed cancer in Spain. Socioeconomic inequalities in cancer survival are not documented in Spain. We aim to study the association of socioeconomic inequalities with overall mortality and survival among CRC patients in southern Spain.
-Methods: We conducted a multilevel population-based cohort study, including CRC cases 10 for the period 2011–2013. The study time-to-event outcome was death, and the primary exposure was CRC patients’ socioeconomic status assessed by the Spanish deprivation index at the census tract level. We used a mixed-effects flexible hazard model, including census tract as a random intercept, to derive overall survival estimates by deprivation.
+Methods: We conducted a multilevel population-based cohort study, including CRC cases for the period 2011–2013. The study time-to-event outcome was death, and the primary exposure was CRC patients’ socioeconomic status assessed by the Spanish deprivation index at the census tract level. We used a mixed-effects flexible hazard model, including census tract as a random intercept, to derive overall survival estimates by deprivation.
 
-Results: Among 3589 CRC patients and 12,148 person-years at risk (pyr), 964 patients died 15 before the end of the follow-up. Mortality by deprivation showed the highest mortality rate for the most deprived group (96.2 per 1000 pyr, 95% CI: 84.0–110.2). After adjusting for sex, age, cancer stage, and the area of residence, the most deprived had a 60% higher excess mortality risk than the less deprived group (excess mortality: 1.6, 95% CI: 1.1–2.3).
+Results: Among 3589 CRC patients and 12,148 person-years at risk (pyr), 964 patients died before the end of the follow-up. Mortality by deprivation showed the highest mortality rate for the most deprived group (96.2 per 1000 pyr, 95% CI: 84.0–110.2). After adjusting for sex, age, cancer stage, and the area of residence, the most deprived had a 60% higher excess mortality risk than the less deprived group (excess mortality: 1.6, 95% CI: 1.1–2.3).
 
-Conclusions: We found a consistent association between deprivation and CRC excess 20 mortality and survival. The reasons behind these inequalities need further investigation in order to improve equality cancer outcomes in all social groups.
+Conclusions: We found a consistent association between deprivation and CRC excess mortality and survival. The reasons behind these inequalities need further investigation in order to improve equality cancer outcomes in all social groups.
 
 - En colaboración con el **Centro Nacional de Epidemiología** del Instituto de Salud Carlos III se está desarrollando una aplicación informática para la georreferenciación de los casos incidentes de cáncer en España en el marco del Subprograma de Vigilancia del Cáncer del CIBERESP.
 
@@ -147,7 +147,7 @@ Trabaja en el Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA),
 
 ### Investigadores colaboradores:
 
-- **Montse Puigdemont**    
+- **Montse Puigdemont**. Montse es diplomada en enfermería y profesora asociada en la Facultad de Enfermería de la Universidad de Girona. Desde 2018 trabaja en el Registro de Cáncer de Girona, aunque su trayectoria ha estado vinculada en estudios clínicos y epidemiológicos sobre cáncer desde 2005.
 
 - **Marcela Guevara Eslava**  
 Marcela es doctora en medicina por la Universidad de Navarra y Máster en Salud Pública por la Escuela Nacional de Sanidad. Es Facultativo Especialista de Área de Medicina Preventiva y Salud Pública en el Instituto de Salud Pública de Navarra, con gran experiencia investigadora en el área de epidemiología del cáncer y en los estudios de alta resolución. Es investigadora del CIBERESP.    
