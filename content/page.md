@@ -81,7 +81,10 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 Background: Colorectal cancer (CRC) is the most frequently diagnosed cancer in Spain. Socioeconomic inequalities in cancer survival are not documented in Spain. We aim to study the association of socioeconomic inequalities with overall mortality and survival among CRC patients in southern Spain.
 Methods: We conducted a multilevel population-based cohort study, including CRC cases for the period 2011–2013. The study time-to-event outcome was death, and the primary exposure was CRC patients’ socioeconomic status assessed by the Spanish deprivation index at the census tract level. We used a mixed-effects flexible hazard model, including census tract as a random intercept, to derive overall survival estimates by deprivation.
 
-Results: Among 3589 CRC patients and 12,148 person-years at risk (pyr), 964 patients died before the end of the follow-up. Mortality by deprivation showed the highest mortality rate for the most deprived group (96.2 per 1000 pyr, 95% CI: 84.0–110.2). After adjusting for sex, age, cancer stage, and the area of residence, the most deprived had a 60% higher excess mortality risk than the less deprived group (excess mortality: 1.6, 95% CI: 1.1–2.3).
+Results: Among 3,589 CRC patients and 12,148 person-years at risk (pyr), 964 patients died before the end of the follow-up. Mortality by deprivation showed the highest mortality rate for the most deprived group (96.2 per 1000 pyr, 95% CI: 84.0–110.2). After adjusting for sex, age, cancer stage, and the area of residence, the most deprived had a 60% higher excess mortality risk than the less deprived group (excess mortality: 1.6, 95% CI: 1.1–2.3).
+
+![](images/figura2.jpg)
+###### Figure Copyright: Clinical Epidemiology
 
 Conclusions: We found a consistent association between deprivation and CRC excess mortality and survival. The reasons behind these inequalities need further investigation in order to improve equality cancer outcomes in all social groups.
 
