@@ -4,7 +4,7 @@ languageCode    = "en-us"
 title           = "Desigualdades Socioeconómicas y Cáncer"
 disqusShortname = ""
 paginate        = 5
-ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles     = ["\\.Rmd$", "^Thumbs\\.db$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
   title       = "Desigualdades Socioeconómicas y Cáncer"

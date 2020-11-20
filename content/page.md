@@ -92,18 +92,19 @@ Conclusions: We found a consistent association between deprivation and CRC exces
 
 - Recientemente hemos georreferenciado todos los casos incidentes de cáncer colorrectal de la provincia de Granada durante el período 2011-2013 y estamos estudiando la asociación entre los quintiles del IP2011 y la supervivencia a 10 años del cáncer colorrectal. 
 
-- En este enlace se irán actualizando los artículos y actividades derivadas del proyecto FIS PI18/01593
+- En este enlace se irán actualizando los artículos y actividades derivadas del proyecto FIS PI18/01593.
 
 ---------------------
 
 ## Congresos y Jornadas
 
+- **Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A multilevel Population-based Study**,
+Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Miguel Rodriguez-Barranco, Yoe Ling Chang-Chan, Elena Salamanca-Fernández, Olivier Nuñez, Pablo Fernández-Navarro, Marina Pollán, María José Sánchez. Comunicación oral aceptada en el I Congreso Virtual de la Sociedad Española de Epidemiología (SEE) y da Associação Portuguesa de Epidemiologia (APE). [Presentación](/presentacion_see.pdf).
+
 - **Descarga de datos del Instituto Nacional de Estadística con R usando el servicio API JSON**,
 Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. [XI Jornadas de Usuarios de R](http://r-es.org/XIjuR/)  
 [Abstract](/INE_R_Abstract.pdf). [Presentación](/presentacion_api_ine.pdf).
 
-- **Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A multilevel Population-based Study**,
-Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Miguel Rodriguez-Barranco, Yoe Ling Chang-Chan, Elena Salamanca-Fernández, Olivier Nuñez, Pablo Fernández-Navarro, Marina Pollán, María José Sánchez. Comunicación oral aceptada en el I Congreso Virtual de la Sociedad Española de Epidemiología (SEE) y da Associação Portuguesa de Epidemiologia (APE).
 
 ---------------------
 
