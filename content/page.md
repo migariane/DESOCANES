@@ -98,6 +98,9 @@ Conclusions: We found a consistent association between deprivation and CRC exces
 
 ## Congresos y Jornadas
 
+- **Socioeconomic Inequalities in Colorectal, Lung, and Breast Cancer Incidence in Spain: A multilevel Population-based Study**,
+Daniel Redondo-Sánchez, Rafael Marcos-Gragera, Marià Carulla, Arantza Lopez de Munain, Consol Sabater Gregori, Rosario Jimenez Chillarón, Marcela Guevara, Olivier Nuñez, Pablo Fernández-Navarro, María-José Sánchez, Miguel Angel Luque-Fernandez. Póster-vídeo presentado en la Jornada Científica CIBERESP 2021. [Enlace a vídeo](https://www.youtube.com/watch?v=BgU4h1uXWz8).
+
 - **Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A multilevel Population-based Study**,
 Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Miguel Rodriguez-Barranco, Yoe Ling Chang-Chan, Elena Salamanca-Fernández, Olivier Nuñez, Pablo Fernández-Navarro, Marina Pollán, María José Sánchez. Comunicación oral aceptada en el I Congreso Virtual de la Sociedad Española de Epidemiología (SEE) y da Associação Portuguesa de Epidemiologia (APE). [Presentación](/presentacion_see.pdf).
 
@@ -143,10 +146,8 @@ Directora del Registro de Cáncer de Granada. Profesora de la Escuela Andaluza d
 
 [Registro de Cáncer de Granada](http://cancergranada.org/es/index.cfm)
 
-### Personal investigador contratado: 
-
-- **Daniel Redondo Sánchez, MSc**  
-Daniel es matemático y experto en Epidemiología e Investigación Clínica por la Universidad de Granada.
+### **Daniel Redondo Sánchez, MSc**  
+Daniel es matemático, científico de datos y experto en Epidemiología e Investigación Clínica por la Universidad de Granada.
 Trabaja en el Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA), la Escuela Andaluza de Salud Pública y CIBERESP.  
 
 ### Investigadores colaboradores:
