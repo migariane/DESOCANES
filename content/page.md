@@ -74,6 +74,8 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 
 ## Artículos y trabajo en curso
 
+- **Lung, Breast and Colorectal Cancer Incidence by Socioeconomic Status in Spain: A Population-Based Multilevel Study**. Daniel Redondo-Sánchez, Rafael Marcos-Gragera, Marià Carulla, Arantza Lopez de Munain, Consol Sabater Gregori, Rosario Jimenez Chillarón, Marcela Guevara, Olivier Nuñez, Pablo Fernández-Navarro, María-José Sánchez, Miguel Angel Luque-Fernandez. **Publicado en [Cancers](https://doi.org/10.3390/cancers13112820).** DOI: 10.3390/cancers13112820
+
 - **Protocolo del Estudio Poblacional Multinivel de las Desigualdades Socioeconómicas en la Distribución Geográfica de la Incidencia, la Mortalidad y la Supervivencia Neta del Cáncer en España: Estudio DESOCANES**. Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Pablo Fernández, Elena Salamanca-Fernández, Rafael Marcos-Gragera, Marcela Guevara, Marià Carulla Aresté, Rosario Jiménez, Olivier Núñez, Consol Sabater, Arantxa López de Munain Marqués, María Dolores Chirlaque, Antonio Mateos, Miguel Rodríguez-Barranco, Jaime Espín Balbino, Marina Pollán, María-José Sánchez. **Publicado en [Gaceta Sanitaria](https://www.gacetasanitaria.org/es-protocolo-del-estudio-poblacional-multinivel-avance-S021391112030128X).** DOI: 10.1016/j.gaceta.2020.02.015
 
 - **Socioeconomic Inequalities in Colorectal Cancer Survival in Southern Spain: A Multilevel Population-Based Cohort Study**. Miguel Angel Luque-Fernandez, Daniel Redondo-Sánchez, Miguel Rodríguez-Barranco, Chang-Chan Yoe-Ling, Elena Salamanca-Fernández, Olivier Núñez, Pablo Fernandez-Navarro, Marina Pollán and María-José Sánchez. **Publicado en [Clinical Epidemiology](https://www.dovepress.com/articles.php?article_id=55495).** DOI: 10.2147/CLEP.S261355
@@ -97,6 +99,9 @@ Conclusions: We found a consistent association between deprivation and CRC exces
 ---------------------
 
 ## Congresos y Jornadas
+
+- **Socioeconomic Inequalities in Colorectal, Lung, and Breast Cancer Incidence in Spain: A multilevel Population-based Study**,
+Daniel Redondo-Sánchez, Rafael Marcos-Gragera, Marià Carulla, Arantza Lopez de Munain, Consol Sabater Gregori, Rosario Jimenez Chillarón, Marcela Guevara, Olivier Nuñez, Pablo Fernández-Navarro, María-José Sánchez, Miguel Angel Luque-Fernandez. Póster presentado en la Reunión de la Ascensión del Grupo de Registro y Epidemiología del Cáncer de los países de Lengua Latina (GRELL), celebrada de forma virtual del 12 al 14 mayo, 2021.
 
 - **Socioeconomic Inequalities in Colorectal, Lung, and Breast Cancer Incidence in Spain: A multilevel Population-based Study**,
 Daniel Redondo-Sánchez, Rafael Marcos-Gragera, Marià Carulla, Arantza Lopez de Munain, Consol Sabater Gregori, Rosario Jimenez Chillarón, Marcela Guevara, Olivier Nuñez, Pablo Fernández-Navarro, María-José Sánchez, Miguel Angel Luque-Fernandez. Póster-vídeo presentado en la Jornada Científica CIBERESP 2021. [Enlace a vídeo](https://www.youtube.com/watch?v=BgU4h1uXWz8).
