@@ -68,7 +68,14 @@ Curso presencial organizado por la Escuela Andaluza de Salud Pública en colabor
 **6. [Tutorial online con ejercicios](http://migariane.github.io/Tutorial-SVA-ULB.html)**  
 
 ### IV Distribuciones paramétricas de supervivencia  
+
 **7. [Acceso a la aplicación interactiva](https://watzilei.com/shiny/Pardist/)**  
+
+### V Técnicas de análisis de supervivencia para su aplicación en registros de cáncer poblacionales (Curso online 2-3 Diciembre 2021: EASP-CIBERESP-VICA & Registro de Cáncer de Granada)
+
+**8. [Modeling Excess Mortality using STRS y Poisson Regression](https://migariane.github.io/TutorialOne.html)**
+
+**9. [Modeling Excess Mortality and Relative Survival using Flexible Parametric Models (stpm2)](https://migariane.github.io/TutorialTwo.html)**
 
 ---------------------
 
@@ -112,7 +119,6 @@ Miguel Ángel Luque-Fernández, Daniel Redondo-Sánchez, Miguel Rodriguez-Barran
 - **Descarga de datos del Instituto Nacional de Estadística con R usando el servicio API JSON**,
 Daniel Redondo Sánchez, Miguel Ángel Luque Fernández, Miguel Rodríguez Barranco, Pablo Fernández-Navarro, María José Sánchez Pérez. [XI Jornadas de Usuarios de R](http://r-es.org/XIjuR/)  
 [Abstract](/INE_R_Abstract.pdf). [Presentación](/presentacion_api_ine.pdf).
-
 
 ---------------------
 
