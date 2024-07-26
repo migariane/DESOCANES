@@ -135,19 +135,18 @@ Basado en el IP2011, hemos realizado un [mapa interactivo](https://github.com/da
 ### IP: **Miguel Ángel Luque Fernández, MA, MPH, MSc, PhD**
 Senior Scientific Researcher of Epidemiology and Biostatistics  
 Miguel Servet I (CP17/00206-EU/FEDER) at Instituto de Investigación Biosanitaria de GRANADA (ibs.GRANADA, University of Granada, Granada, Spain) and Biomedical Network Research Centers of Epidemiology and Public Health (CIBERESP), ISCIII, Madrid, Spain.   
-[Academic website](https://maluque.netlify.com/)  
+[Academic website](https://maluque.netlify.app/)  
 
 Assistant Professor of Epidemiology and Biostatistics (Honorary)  
 Department of Non-Communicable Disease Epidemiology  
 London School of Hygiene and Tropical Medicine, London, UK.   
-[LSHTM academic website](http://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel)  
 
 Scientist collaborator, Department of Epidemiology  
 Harvard TH Chan School of Public Health, Boston, USA.  
 [Harvard academic website](https://scholar.harvard.edu/malf)  
 
 CoMCoR study and tutorials  
-[CoMCoR study](https://comcor.netlify.com/)  
+[CoMCoR study](https://comcor.netlify.app/)  
 [Tutorials](http://migariane.github.io/)  
 
 <img src="images/email.png" alt="email" style="width: 20px;"/>  miguel.luque.easp at juntadeandalucia.es
